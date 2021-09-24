@@ -1,4 +1,6 @@
 # AdventureWorks-Sales-Data
+Dashboard to visualize sales data for one of example cycles company to keeps track of their product sales, bussiness, revenues based on geolocations and products/categories and subcategories. Restructure the dataset using Calculated columns and measures also build relationships between models to showcase combined results from multiple sources.
+
 Problem Statement:
 Creating the Dynamically interactive dashboard using Sales Data from Year 2015 to 2017
 Dashboard should contain following aspects:
